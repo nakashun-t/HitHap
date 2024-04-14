@@ -3,7 +3,7 @@
 This is a haptic device project for Oculus Quest.
 [movie](https://youtu.be/VAA0z_yz5hs)
 
-Please read this [article](https://note.mu/shuntaro20/n/n0e1b3d9bc039) to know detail.  
+Please read this [article](https://note.com/nakashun_t/n/n0e1b3d9bc039) to know detail.  
 ※This article is Japanese  
 
 Parts  
